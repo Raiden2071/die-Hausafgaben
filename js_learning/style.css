@@ -3,7 +3,7 @@
 }
 
 body {
-    background: url(/Россия.jpg) no-repeat;
+    background: url(./Россия.jpg) no-repeat;
     background-size: cover;
     height: 100%;
 }
